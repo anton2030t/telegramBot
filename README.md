@@ -1,5 +1,5 @@
 # telegramBot
-Telegram Bot to display a subject citation index.
+Telegram Bot to display a thematic citation index.
 #
 ![Image alt](https://github.com/anton2030t/telegramBot/raw/master/1.png)
 ![Image alt](https://github.com/anton2030t/telegramBot/raw/master/2.png)
