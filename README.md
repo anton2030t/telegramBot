@@ -1,4 +1,4 @@
-# telegramBot
+# Telegram Bot
 Telegram Bot to display a thematic citation index.
 #
 ![Image alt](https://github.com/anton2030t/telegramBot/raw/master/1.png)
